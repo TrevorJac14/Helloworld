@@ -6,7 +6,7 @@ I wanted to do Hello World with my IDE and version control system.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
-![Screenshot of the picture]((Screenshot 2023-09-12.png))
+![Screenshot of the picture](Screenshot_2023-09-12.png)
 
 # Development Environment
 
