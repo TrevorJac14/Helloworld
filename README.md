@@ -4,7 +4,7 @@ This is the classic Hello World application
 
 I wanted to do Hello World with my IDE and version control system.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://drive.google.com/file/d/1pBhveORHzLPZm6uar0BifBiMaiVKB-7L/view)
 
 ![Screenshot of the picture](Screenshot_2023-09-12.png)
 
@@ -17,5 +17,4 @@ Git
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Screencastify](https://app.screencastify.com/videos)
